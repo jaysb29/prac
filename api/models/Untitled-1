@@ -1,0 +1,57 @@
+server is empty
+
+
+Jayshree Suggestion
+
+
+Check file exists
+    Yes 
+        Serve from Cache
+    No
+        Get The text
+        Check for Jira Tag (New)
+            Yes
+                Generate the pdf  (New)
+                Remove from server(New )
+            No  
+                Generate the pdf  (Existing)
+                Save to Server     (Existing)
+
+
+http://docs.splunk.com/Documentation/Splunk/7.2.3/Overview/AboutSplunkEnterprise
+Check file exists
+    Get The text  (Existing)
+
+
+
+Vinay Suggestion
+Check file exists
+    Yes 
+        Get The text(New)
+        Check for Jira Tag (New)
+        Generate the pdf (New)
+    No
+        Get The text  (Existing)
+        Generate the pdf  (Existing)
+        Save to Server     (Existing)
+
+
+
+
+
+
+
+
+
+
+
+pdf - server save
+- edit Splunk-7.2.3-Overview-AboutSplunkEnterprise
+
+give old copy
+
+
+-------------
+
+
+Splunk-7.2.3-Overview-AboutSplunkEnterprise
